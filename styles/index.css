@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: green;
+}
+
+p {
+    color: orange;
+}
+
+p {
+    color: blue;
+}
+
+#first-p-tag {
+    /* code goes here */
+    height: 50vh;
+    width: 1000px;
+    background: yellow;
+}
+
+.im-the-favorite {
+    /* code goes here  */
+}
+
+main section p {
+    /* code goes here  */
+}
